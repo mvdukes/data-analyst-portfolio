@@ -1,4 +1,4 @@
-Financial Analyst Portfolio — Real Data Projects (Excel • SQL • Power BI)
+Data Analyst Portfolio — Real Data Projects (Excel • SQL • Power BI)
 -
 by Malik Dukes
 
